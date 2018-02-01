@@ -1,4 +1,4 @@
-![CAE](https://github.com/testcae/application-demo-music-2/blob/master/img/logo.png)  
+![CAE](https://github.com/CAE-Community-Application-Editor/application-demo-music-2/blob/master/img/logo.png)  
 
 demo-music-2
 ===================
