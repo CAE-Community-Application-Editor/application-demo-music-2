@@ -1,4 +1,4 @@
-![CAE](https://github.com/testcae/application-demo-music-2/blob/master/microservice-image-service-2/img/logo.png)  
+![CAE](https://github.com/testcae/microservice-image-service-2/blob/master/img/logo.png)  
 
 image-service-2
 ===================
