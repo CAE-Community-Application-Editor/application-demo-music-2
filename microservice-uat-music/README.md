@@ -1,4 +1,4 @@
-![CAE](https://github.com/testcae/application-demo-music-2/blob/master/microservice-uat-music/img/logo.png)  
+![CAE](https://github.com/testcae/microservice-uat-music/blob/master/img/logo.png)  
 
 uat-music
 ===================
